@@ -1,0 +1,28 @@
+body {
+    background-color: #222;
+}
+#carousel {
+    border: 5px solid #555;
+    width: 900px;
+    height: 800px;
+    color: white;
+    font-size: 50px;
+}
+#carousel h4 {
+    margin: 0;
+    text-align: center
+}
+#carousel button {
+    width: 200px;
+    height: 100px;
+    font-size: 50px;
+}
+#carousel button:first-child {
+    margin-left: 100px;
+}
+#carouselSlides {
+    border: 2px solid white;
+    width: 800px;
+    height: 600px;
+    margin: 0 0 0 50px;
+}
